@@ -46,7 +46,7 @@ The audit was performed using the **NIST Cybersecurity Framework (CSF)**.
    - **System and Organization Controls (SOC Type 1 & 2)**
 
 ### Tools:
-- Controls and Compliance Checklist Template (provided by course materials).
+- Controls and Compliance Checklist (provided by course materials).
 - Supporting materials from the course.
 
 ---
@@ -99,17 +99,4 @@ To address these vulnerabilities, it is recommended that Botium Toys:
 ---
 
 ## Supporting Materials
-- [Scope, Goals, and Risk Assessment Report](#)
-- [Controls and Compliance Checklist Template](#)
-- [NIST Cybersecurity Framework (CSF)](https://www.nist.gov/cyberframework)
-
----
-
-## About This Project
-This project is part of my cybersecurity portfolio, showcasing my ability to:
-- Conduct internal security audits.
-- Apply cybersecurity frameworks to real-world scenarios.
-- Analyze risks and compliance requirements.
-- Provide actionable recommendations to stakeholders.
-
-For any questions or further discussion, feel free to contact me at [your_email@example.com].
+- [Scope, Goals, and Risk Assessment Report](https://docs.google.com/document/d/1s2u_RuhRAI40JSh-eZHvaFsV1ZMxcNSWXifHDTOsgFc/template/preview#heading=h.evidx83t54sc)
